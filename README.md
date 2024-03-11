@@ -1,6 +1,6 @@
-Hey, I'm Sakshi!!! 👋
+**Hey, I'm Sakshi!** 👋🏻
 
-“I’m interested in the intersection of product development & design. “
+A professional Product Engineer based in India, and I'm interested in the intersection of product development & design.
 
 <!--
 **geekieshpixel/geekieshpixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
