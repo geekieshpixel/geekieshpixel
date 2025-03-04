@@ -24,4 +24,4 @@ I believe **great products go beyond just code—they create seamless interactio
 🚀 **Tools & Workflows:** Git, SVN, CI/CD, Agile 
 
 ## 📫 Let’s Build Something Amazing  
-💼 www.linkedin.com/in/sakshi-chavan | 📧 chavansakshi016@gmail.com 
+💼 www.linkedin.com/in/sakshi-chavan 
